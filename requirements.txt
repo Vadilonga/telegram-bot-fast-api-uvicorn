@@ -1,0 +1,4 @@
+fastapi
+python-telegram-bot
+uvicorn
+python-dotenv
